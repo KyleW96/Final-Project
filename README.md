@@ -1,5 +1,5 @@
 # Destiny 2 Mod Optimizer 
-An application to help provide Destiny 2 players with selecting the best mods for their subclass and current activity. With over 100 different mods and each armor having unique mods it can be a bit overwhelming. This app is designed for individuals who do not have the time to do research on which combination is the best. 
+An application to help provide Destiny 2 players with selecting the best mods for their subclass and current activity. With over 100 different mods and each armor having unique mods it can be a bit overwhelming. This app is a tool for gamers and is designed for individuals who do not have the time due to work, school, other priorities to do research or keeping up with which combination is the best as the game is always being updated with new armor, classes, game modes. 
 
 ## Table of Contents
 - [__pycache__] (#__pycache__)
